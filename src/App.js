@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="http://blin125.github.io/blin125.github.io" element={<Home/>}/>
+        <Route path="/blin125.github.io" element={<Home/>}/>
       </Routes>
     </Router>
   );
